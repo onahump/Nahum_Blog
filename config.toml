@@ -13,7 +13,7 @@ theme = "hugo-sustai"
 [params]
   avatar = "profile.png"
   author = "Nahum Ponce"
-  description = "Describe your website"
+  description = "Bienvenido a mi blog personal, da un vistazo a mis post / @onahump "
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
