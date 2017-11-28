@@ -4,7 +4,7 @@ title = "Nahúm Ponce"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-110309520-1"
 theme = "hugo-sustai"
 
 [permalinks]
