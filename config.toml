@@ -5,7 +5,7 @@ title = "Nahúm Ponce"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-110309520-1"
-theme = "hugo-sustai"
+theme = "hugo-sustain"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -21,7 +21,7 @@ theme = "hugo-sustai"
 
 [params.social]
   Github        = "onahump"
-  Email         = "oswaldo@makingdevs.com"
+  Email         = "nahum.poar@gmail.com"
   Twitter       = "onahump"
 
 ## Main Menu
