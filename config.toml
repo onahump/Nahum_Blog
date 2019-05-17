@@ -5,7 +5,7 @@ title = "Nahúm Ponce"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-110309520-1"
-theme = "hugo-sustain"
+theme = "hugo-sustain-vitae"
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -23,6 +23,18 @@ theme = "hugo-sustain"
   Github        = "onahump"
   Email         = "nahum.poar@gmail.com"
   Twitter       = "onahump"
+  LinkedIn      = "username"
+
+[params.vitae]
+  website = "git.io/sustain"
+  website_full = "https://demo.nurlan.co/hugo-sustain/"
+  tel = "+44 0000 000000"
+  tel_full = "+440000000000"
+  google_maps = "https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL"
+  address = "44 Perth Street"
+  postcode = "EH3 5BL"
+  city = "Edinburgh"
+  country = "United Kingdom"
 
 ## Main Menu
 [[menu.main]]
@@ -39,4 +51,4 @@ theme = "hugo-sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "/resume/"
+  url = "/vitae/"
